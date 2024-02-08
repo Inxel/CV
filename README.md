@@ -1,13 +1,13 @@
 # [Full pdf version](https://inxel.github.io/CV/)
 
 # Artyom Zagoskin. iOS Engineer.
-Open-minded, flexible, mindfulness, collaborative iOS developer with 4+ years of experience. Participate in all phases of development: system design, UI and UX discussion, decomposition and development. Spending spare time exploring new technologies to use it in pet and work projects. Fascinated about my job.
+iOS Engineer with 5 years of expertise in Swift. Experienced in developing and maintaining large scale customer-facing applications. I approach each project with a focus on creating user-friendly interfaces and optimizing app performance. Collaborative team player with a passion for staying up-to-date with the latest iOS technologies and a commitment to delivering high-quality products.
 
 # Connect w/ me
 - [LinkedIn](https://linkedin.com/in/artyomzagoskin)
 - [Telegram](https://www.t.me/Arty_Zago)
 - [Gmail](mailto:artyzago@gmail.com)
-- [**All links**](https://inxel.github.io/MyLinks/)
+- [**All links**](https://inxel.github.io/links/)
 
 # Work experience
 ## [Aviasales](https://apps.apple.com/ru/app/aviasales-book-cheap-flights/id498958864?l=en-GB)
@@ -16,6 +16,7 @@ Open-minded, flexible, mindfulness, collaborative iOS developer with 4+ years of
 - Results page (**1.5x faster**) and ticket screen
 - Feature management
 - SwiftUI (previously UIKit without storyboards)
+- Feature management
 - Objective-C to Swift refactoring
 - Work in team of 4 iOS developers
 - MVVM architecture
