@@ -12,17 +12,19 @@ iOS Engineer with 5 years of expertise in Swift. Experienced in developing and m
 # Work experience
 ## [Aviasales](https://apps.apple.com/ru/app/aviasales-book-cheap-flights/id498958864?l=en-GB)
 ### The leading travel metasearch company in Eastern Europe and Central Asia (with more then 15 mln unique users monthly).
-- Brand-new hotel page and hotels search (**75% more bookings**)
-- Results page (**1.5x faster**) and ticket screen
+- Collaborated with a dynamic team of iOS developers to revolutionize the user experience, resulting in a remarkable **75% increase in hotel bookings**
+- Contributed significantly to the development of a dynamic hotels map with custom districts
+- Played an important role in enhancing the results page, achieving a remarkable **1.5x improvement in speed**
+- Innovated the functionality of the ticket screen, streamlining the process of finding and selecting suitable tickets for users
+- Participated in design system development
 - Feature management
 - SwiftUI (previously UIKit without storyboards)
-- Feature management
-- Objective-C to Swift refactoring
-- Work in team of 4 iOS developers
-- MVVM architecture
 - Code review
 - UI-, Unit- and snapshot tests
 - Interviewer
+- Objective-C to Swift refactoring
+- Work in team of 4 iOS developers
+- MVVM architecture
 
 ## Napoleon IT
 1. Retail app:
