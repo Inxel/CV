@@ -5,7 +5,7 @@ iOS Engineer with 5 years of expertise in Swift. Experienced in developing and m
 
 # Connect w/ me
 - [LinkedIn](https://linkedin.com/in/artyomzagoskin)
-- [Telegram](https://www.t.me/Arty_Zago)
+- [Telegram](https://www.t.me/tyoma_zago)
 - [Gmail](mailto:artyzago@gmail.com)
 - [**All links**](https://inxel.github.io/links/)
 
